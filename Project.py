@@ -1,4 +1,5 @@
 """
+author: @eshrawan
 Find differences in file contents.
 """
 
